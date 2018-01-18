@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent Example</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="name">Name</string>
+    <string name="error">Error</string>
+    <string name="cancelled">Input cancelled</string>
+</resources>

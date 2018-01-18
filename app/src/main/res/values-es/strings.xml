@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejemplo de Intent</string>
+    <string name="cancel">Cancelar</string>
+    <string name="send">Enviar</string>
+    <string name="name">Nombre</string>
+    <string name="error">Error</string>
+    <string name="cancelled">Entrada cancelada</string>
+</resources>
